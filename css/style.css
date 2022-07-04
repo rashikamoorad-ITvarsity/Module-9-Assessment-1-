@@ -30,7 +30,7 @@ p{
 }
 
 .roundButton  {
-    
+    color:white;
     border-radius: 50%;
     background-color: yellow;
     border: 0;
